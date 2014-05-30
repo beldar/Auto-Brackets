@@ -1,0 +1,12 @@
+{
+    "name": "beldar.auto-brackets",
+    "title": "Add trailing brackets and curly braces",
+    "description": "Adds when you write '{' or '[' and press enter closes the tag and leaves the cursor in the middle",
+    "homepage": "https://github.com/beldar/Auto-Brackets",
+    "version": "0.0.5",
+    "author": "Marti Planellas (http://github.com/beldar)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.39.0"
+    }
+}
