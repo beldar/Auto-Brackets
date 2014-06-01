@@ -10,7 +10,7 @@ An extension for [Brackets](https://github.com/adobe/brackets/) for automatic cl
 3. Click on the Install button.
 
 ### How to use Auto-Brackets
-When you write '{' or '[' and press enter, closes the tag and leaves the cursor in the middle line with correct indentation.
+When you write { , [ or ( and press enter, closes the tag and leaves the cursor in the middle line with correct indentation.
 
 ![Example](auto-brackets3.gif "Example")
 
