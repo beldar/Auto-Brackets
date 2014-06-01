@@ -1,7 +1,7 @@
 Auto-Brackets
 ======
 
-An extension for [Brackets](https://github.com/adobe/brackets/) for better handling with some chars for HTML.
+An extension for [Brackets](https://github.com/adobe/brackets/) for automatic closure of brackets and curly braces on enter key.
 
 ### How to Install
 
@@ -10,8 +10,9 @@ An extension for [Brackets](https://github.com/adobe/brackets/) for better handl
 3. Click on the Install button.
 
 ### How to use Auto-Brackets
-Adds when you write '{' or '[' and press enter closes the tag and leaves the cursor in the middle
+When you write '{' or '[' and press enter, closes the tag and leaves the cursor in the middle line with correct indentation.
+
+![Example](auto-brackets3.gif "Example")
 
 ***
 Tested on Brackets Sprint 39, Mac OS X.
-    
